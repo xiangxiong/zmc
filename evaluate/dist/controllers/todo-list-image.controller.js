@@ -1,11 +1,11 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TodoListImageController = void 0;
+const tslib_1 = require("tslib");
 // Copyright IBM Corp. 2018,2020. All Rights Reserved.
 // Node module: @loopback/example-todo-list
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.TodoListImageController = void 0;
-const tslib_1 = require("tslib");
 const repository_1 = require("@loopback/repository");
 const rest_1 = require("@loopback/rest");
 const models_1 = require("../models");
